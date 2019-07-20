@@ -26,7 +26,7 @@ for(int i=0;i<=4;i++)
 	}
 	factor[i]=fact;
 	
-	System.out.println("The Factorial Number is "+fact);
+	System.out.println("The Factorial Number is "+number[i]  +"	"+ factor[i]);
 }
 		
 }
